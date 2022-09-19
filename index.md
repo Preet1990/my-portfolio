@@ -21,7 +21,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Prediction of User Interest Using Bank Data](https://github.com/maielhadad99/Logistic_Regression_Project..git)
+[Prediction of User Interest Using Bank Data](https://github.com/Preet1990/Classification_Algos.git)
 
 <img src="images/bank image.jpeg?raw=true"/>
 
@@ -37,7 +37,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Identifying Symptoms of Orthopedic Patients as Normal or Abnormal](https://github.com/maielhadad99/Knn_Nb_Project.git)
+[Identifying Symptoms of Orthopedic Patients as Normal or Abnormal](https://github.com/Preet1990/KNN_NB_Project)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
@@ -45,7 +45,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbor, the algorithm is used to classify points according to class of their K nearest neighbor points .
 
-**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an accuracy of 82% .
+**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an accuracy of 92% .
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
@@ -53,7 +53,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[TalkingData Project on Bagging and Boosting Ensemble Model:](https://github.com/maielhadad99/DT_Ensemble_Project.git)
+[TalkingData Project on Bagging and Boosting Ensemble Model:](https://github.com/Preet1990/Decision-Trees)
 
 <img src="images/Mobile.jpeg?raw=true"/>
 
@@ -61,7 +61,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 
-**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 99% .
+**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 93% .
 
 - Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
 - Compared predictive performance by fitting a BaggingClassifier model to the data
@@ -69,7 +69,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[The San Francisco Project on Clustering](https://github.com/maielhadad99/Clustring_Project.git)
+[The San Francisco Project on Clustering](https://github.com/Preet1990/Cluster_KMeans_Project)
 
 <img src="images/clusters.png?raw=true"/>
 
@@ -102,7 +102,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Implementing Deep Neutral Network With Keras For Handwriting Classification and Recognition](https://github.com/maielhadad99/Hand_Writting_Recognition_Project.git)
+[Implementing Deep Neutral Network With Keras For Handwriting Classification and Recognition](https://github.com/Preet1990/NLP)
 
  <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 
@@ -112,7 +112,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 <b>Quantifiable Results:</b>
 
-  - Loss = 0.037 - 0.9909 = Final Model Eval = 99.0899%
+  - Loss = 0.0017 = Final Model Eval = 99.899%
   - Load the data
   - Initial data indagation
   - Initial EDA
@@ -124,66 +124,4 @@ The classification goal is to predict if the client will subscribe a term deposi
   - Improved the depth of model
 
 ***
-
-[Identifying The People Having Diabetes](https://github.com/maielhadad99/Pima_Indians_Diabetes_Database.git)
-
-<img src="images/Diabetes.jpg?raw=true"/>
-
-**Skills used:** Python, Pandas, SKlearn, Matplotlib,RandomForest,KNN
-
-**Project Objective:** In this project we are provided with multiple instances of diabetes parameters and we are also provided with their classification as positive or negative . We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbor points .
-
-**Quantifiable result:** We could Classify the  diabetes parameters as positive or negative with an accuracy of 84.5% .
-
-- Used the K Nearest Neighbors algorithm to classify a patient's condition as positive or negative based on various Diabetes parameters
-- Compared predictive performance by fitting a RandomForest model to the data
-- Selected best model based on train and test performance
-
-***
-
-[Identifying The People Having Heart Disease](https://github.com/maielhadad99/HEART_FAILURE_PRED.git)
-
-<img src="images/heart.png?raw=true"/>
-
-**Skills used:** Python, Pandas, SKlearn, Matplotlib,LogisticRegression,DecisionTreeClassifier.
-
-**Project Objective:** In this project we are provided with multiple instances parameters about Heart and we are also provided with their classification as positive or negative . We have to implement LogisticRegression, to predict if some people have heart disease. 
-
-**Quantifiable result:** We could Classify the heart disease parameters as positive or negative with an accuracy of 87.5% .
-
-- Used the LogisticRegression algorithm to classify a patient's condition as positive or negative based on various heart parameters
-- Compared predictive performance by fitting a DecisionTreeClassifier model to the data
-- Selected best model based on train and test performance
-
-***
-
-[Predicting The Sales of The Video Games](https://github.com/maielhadad99/Video_Game_Sales_Pred.git)
-
-<img src="images/VG.jpeg?raw=true"/>
-
-**Skills used:** Python, Pandas, SKlearn, Matplotlib,AdaBoost Regressor.
-
-**Project Objective:** In this problem, we will use the features associated with Rank, such as Platform, Year, genre, publisher to predict the probability of a global sales.
-
-**Quantifiable result:** We could predict the video game sales  with an accuracy of 96% .
-
-- We removed the outliers
-- Used the AdaBoost algorithm to Predict the video game sales
-
-***
-
-[Predicting The Price of a House in Paris](https://github.com/maielhadad99/Paris_Housing_Price.git)
-
-<img src="images/HP.jpeg?raw=true"/>
-
-**Skills used:** Python, Pandas, SKlearn, Matplotlib,Linear Regression, Logistic Regression.
-
-**Project Objective:** In this problem, we will use the features associated with squareMeters, numberOfRooms, hasYard,hasPool,isNewBuilt,garage,hasGuestRoom to predict of Price of a house in Paris.
-
-**Quantifiable result:** We could predict the price of house with an accuracy of 99.8% .
-
-- We removed the outliers
-- Used the Linear Regression algorithm to Predict the price of the house.
-- Used the Logistic regression algorithm to compare 
-- Selected best model based on train and test performance
 
