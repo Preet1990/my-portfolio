@@ -102,7 +102,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Implementing Deep Neutral Network With Keras For Handwriting Classification and Recognition](https://github.com/Preet1990/NLP)
+[Implementing Deep Neutral Network With Keras For Handwriting Classification and Recognition](https://github.com/Preet1990/Deep-Neural-Network/blob/main/hand_writting_recognition_project.ipynb)
 
  <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 
