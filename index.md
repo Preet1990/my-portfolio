@@ -4,7 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining The Effect of Environmental Factors and Weather on Bike Rentals](https://github.com/maielhadad99/Linear_Regression_Project.git)
+[Examining The Effect of Environmental Factors and Weather on Bike Rentals](https://github.com/Preet1990/Linear-Regression.git)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
@@ -12,7 +12,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropriate measures which finally will result in bike utilization.
 
-- **Quantifiable result:** We could predict the Bike rental demand resulting in 73% accuracy .
+- **Quantifiable result:** We could predict the Bike rental demand resulting in 79% accuracy .
 
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
