@@ -85,7 +85,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Amazon Fine Food Analysis Using NLP](https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes.git)
+[Amazon Fine Food Analysis Using NLP](https://github.com/Preet1990/NLP/blob/main/NLP_Amazon%20Fine%20Food%20Reviews%20Analysis_Naive_Bayes.ipynb)
 
 <img src="images/amazon.jpeg?raw=true"/>
 
